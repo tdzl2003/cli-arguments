@@ -1,5 +1,5 @@
 {
   "name": "cli-arguments",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js"
 }
